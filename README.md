@@ -1,4 +1,4 @@
-## 오이시 테이블 d
+## 오이시 테이블 
 
 ---
 ### _Goal_
@@ -30,3 +30,7 @@
 ### _ERD_
 
 ---
+
+
+https://www.notion.so/cache-1ab946ed6652807d94c2f0cf929fcfb5?pvs=4
+
