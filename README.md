@@ -29,19 +29,28 @@
 ![erd](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbbWFVX%2FbtsMNgOzWo5%2FLyuk5qnL3XGK9wTDMKW6Yk%2Fimg.png)
 
 ---
+
+### _Reservation FlowChart_
+<img width="545" alt="Image" src="https://github.com/user-attachments/assets/fcb0d841-224a-486b-ac69-37073981b550" />
+
+---
+
 ### _Coupon FlowChart_
 <img width="694" alt="Image" src="https://github.com/user-attachments/assets/8ebb3d26-5828-4300-871f-9e00d3909aeb" />
 
-__
+---
+
 ### _Wire Frame_
 > https://www.figma.com/design/IdgwOglfS5qUzXs19sPDgr/Team11?node-id=0-1&p=f&t=EWhJvXmYadw08A43-0
 
 ---
+
 ### API Specification
 
 > https://docs.google.com/spreadsheets/d/1eOc9F-IZVpA-UlT_tm1u7qOb17IsiICzk5K5ZEFF7gQ/edit?gid=0#gid=0
 
 ---
+
 # 주요 기능
 
 ## 1. 가게 필터 검색
