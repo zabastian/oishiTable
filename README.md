@@ -29,6 +29,10 @@
 ![erd](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbbWFVX%2FbtsMNgOzWo5%2FLyuk5qnL3XGK9wTDMKW6Yk%2Fimg.png)
 
 ---
+### _Coupon FlowChart_
+<img width="694" alt="Image" src="https://github.com/user-attachments/assets/8ebb3d26-5828-4300-871f-9e00d3909aeb" />
+
+__
 ### _Wire Frame_
 > https://www.figma.com/design/IdgwOglfS5qUzXs19sPDgr/Team11?node-id=0-1&p=f&t=EWhJvXmYadw08A43-0
 
